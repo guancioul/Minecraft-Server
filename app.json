@@ -5,7 +5,7 @@
     "games",
     "minecraft"
   ],
-  "logo": "https://github.com/b0543028/Minecraft-Server/blob/master/logo.jpg",
+  "logo": "https://github.com/b0543028/Minecraft-Server/blob/master/logo.jpg?raw=true",
   "repository": "https://github.com/b0543028/Minecraft-Server",
   "env": {
     "MINECRAFT_EULA": {
